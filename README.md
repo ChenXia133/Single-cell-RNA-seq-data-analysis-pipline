@@ -1,2 +1,4 @@
 # Single-cell-RNA-seq-data-analysis-pipline
 Single-cell RNA seq data analysis in "Single-Cell Transcriptomics Reveals STAT1 drives LHPP Downregulation in Esophageal Squamous Cell Carcinoma Progression"
+
+This repository contains the primary code used for the single-cell data analysis presented in the study titled "Single-Cell Transcriptomics Reveals STAT1 Drives LHPP Downregulation in Esophageal Squamous Cell Carcinoma Progression." The code facilitates comprehensive analyses, including the identification and classification of cell types, the calculation and visualization of cell-specific markers, the detection and presentation of differentially expressed genes, the construction and analysis of pseudotime trajectories to investigate cell fate decisions, and the assessment of gene expression patterns related to cellular processes. These tools are designed to ensure reproducibility and to support further exploration of single-cell transcriptomics in cancer research.
